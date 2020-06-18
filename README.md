@@ -13,3 +13,7 @@ Sumate a cualquiera de los [proyectos de subtitulado](https://github.com/SomosCo
 ## ¿Cómo deben crearse los subtítulos?
 
 Utilizaremos el formato SubRip (.srt) para todos los subtítulos. Este formato es fácil de trabajar y no requiere de software especializado.
+
+## ¿Es tu primera vez haciendo subtítulos?
+
+¡No te preocupes! Podés contribuir escribiendo todo lo que se dice en el vídeo en un archivo .txt y que otras personas que conozcan el formato SubRip puedan ayudarte.
