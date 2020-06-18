@@ -2,7 +2,7 @@
 
 [Read this in English](README.en.md) |  [Leer em portugués](README.pt.md)
 
-Este repositorio pretender llevar un registro del trabajo necesario para crear subtítulos para los videos de CoDeAr en YouTube.
+Este repositorio pretende llevar un registro del trabajo necesario para crear subtítulos para los videos de CoDeAr en YouTube.
 
 Vamos a estar subtitulando en tres idiomas: español, inglés y portugués.
 
