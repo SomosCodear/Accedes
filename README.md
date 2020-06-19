@@ -26,3 +26,10 @@ Utilizaremos el formato SubRip (.srt) para todos los subtítulos. Este formato e
  - Si estamos creando una transcripción (para que otra persona pueda convertirla en subtítulo), crear un archivo TXT cuyo nombre sea el número de issue del vídeo.  Ejemplo: si estamos trabajando en el video "Educar en tiempos de #YoMeQuedoEnCasa" en inglés, la ruta y el nombre del archivo es `en-US/1.txt`.
 3) Enviar un pull request y referenciar al video que se está trabajando a través de su número de issue, completando los datos que pide la plantilla de pull request.
 4) El staff de CoDeAr va a probar los subtítulos y revisarlos. Cuando estén chequeados y funcionando, el PR se aprueba y se mergea.
+
+## Algunos términos y condiciones
+
+Este repositorio servirá como referencia de atribución para aquellas personas autoras que produzcan subtítulos o transcripciones.
+
+- Participar de repositorio implica la aceptación del [código de conducta](./CODE_OF_CONDUCT.md) de CoDeAr.
+- Contribuir a este repositorio implica que aceptás ceder los textos redactados bajo una [licencia CC0 (Creative Commons Zero)](./LICENSE).
