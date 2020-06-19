@@ -1,4 +1,7 @@
-# Subtitulos
+![](https://codear.org/images/brand/codear-logo-desktop.svg)
+
+# The _Accedes_ Initiative
+> Active, Collaborative, Centralized Development of Subtitles
 
 [Lee esto en español](README.md) |  [Leer em portugués](README.pt.md)
 
