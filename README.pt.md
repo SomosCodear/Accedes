@@ -1,6 +1,6 @@
 # Subtitulos
 
-[Read this in English](README.en.md) |  [Lee esto en español](README.es.md)
+[Read this in English](README.en.md) |  [Lee esto en español](README.md)
 
 Este repositorio organiza o trabalho necessário para produzir legendado para os vídeos de CoDeAr no YouTube.
 
