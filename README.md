@@ -1,4 +1,7 @@
-# Subtitulos
+![](https://codear.org/images/brand/codear-logo-desktop.svg)
+
+# Proyecto _Accedes_
+> Acción Colaborativa y Centralizada de Subtitulado
 
 [Read this in English](README.en.md) |  [Leer em portugués](README.pt.md)
 
