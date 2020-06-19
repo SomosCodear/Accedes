@@ -31,5 +31,5 @@ Utilizaremos el formato SubRip (.srt) para todos los subtítulos. Este formato e
 
 Este repositorio servirá como referencia de atribución para aquellas personas autoras que produzcan subtítulos o transcripciones.
 
-- Participar de repositorio implica la aceptación del [código de conducta](./CODE_OF_CONDUCT.md) de CoDeAr.
+- Participar de este repositorio implica la aceptación del [código de conducta](./CODE_OF_CONDUCT.md) de CoDeAr.
 - Contribuir a este repositorio implica que aceptás ceder los textos redactados bajo una [licencia CC0 (Creative Commons Zero)](./LICENSE).
