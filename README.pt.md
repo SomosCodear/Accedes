@@ -1,9 +1,13 @@
-![](https://codear.org/images/brand/codear-logo-desktop.svg)
-
-# Projeto _Accede Legendagem_
-> Ação Colaborativa e Centralizada de Legendagem
-
-[Read this in English](README.en.md) |  [Lee esto en español](README.md)
+<p align="center">
+  <img src="https://i.ibb.co/k6KRZDT/Accedes-PT-Brand-2x.png" width="400">
+</p>
+<hr>
+<p align="center">
+  <i><b>Accedes:</b> Ação Colaborativa e Centralizada de Legenda</i><br><br>
+  <a href="README.en.md">Read this in English</a> |
+  <a href="README.md">Lee esto en español</a>
+</p>
+<hr>
 
 Este repositorio organiza o trabalho necessário para produzir legendagem para os vídeos de CoDeAr no YouTube.
 
