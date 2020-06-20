@@ -3,7 +3,7 @@
 </p>
 <hr>
 <p align="center">
-  <i><b>Accedes:</b> Ação Colaborativa e Centralizada de Legenda</i><br><br>
+  <i><b>Accede Legenda:</b> Ação Colaborativa e Centralizada de Legenda</i><br><br>
   <a href="README.en.md">Read this in English</a> |
   <a href="README.md">Lee esto en español</a>
 </p>
