@@ -1,5 +1,7 @@
-<img src="https://i.ibb.co/P9Z7wXt/Accedes-ES-Brand-2x.png" width="400" align="center">
-<p align="center"><i>Accedes: Acción Colaborativa y Centralizada de Subtitulado</i></p>
+<p align="center">
+  <img src="https://i.ibb.co/P9Z7wXt/Accedes-ES-Brand-2x.png" width="400"><br>
+  <i>Accedes: Acción Colaborativa y Centralizada de Subtitulado</i>
+</p>
 
 [Read this in English](README.en.md) |  [Leer em portugués](README.pt.md)
 
