@@ -1,7 +1,5 @@
-![](https://codear.org/images/brand/codear-logo-desktop.svg)
-
-# Proyecto _Accedes_
-> Acción Colaborativa y Centralizada de Subtitulado
+<img src="https://i.ibb.co/P9Z7wXt/Accedes-ES-Brand-2x.png" width="400" align="center">
+<p align="center"><i>Accedes: Acción Colaborativa y Centralizada de Subtitulado</i></p>
 
 [Read this in English](README.en.md) |  [Leer em portugués](README.pt.md)
 
