@@ -3,10 +3,11 @@
 </p>
 <hr>
 <p align="center">
-  <i>Accedes: Acción Colaborativa y Centralizada de Subtitulado</i><br><br>
+  <i><b>Accedes:</b> Acción Colaborativa y Centralizada de Subtitulado</i><br><br>
   <a href="README.en.md">Read this in English</a> |
   <a href="README.pt.md">Leer em portugués</a>
 </p>
+<hr>
 
 Este repositorio pretende llevar un registro del trabajo necesario para crear subtítulos para los videos de CoDeAr en YouTube.
 
