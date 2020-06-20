@@ -1,9 +1,13 @@
-![](https://codear.org/images/brand/codear-logo-desktop.svg)
-
-# The _Accedes_ Initiative
-> Active, Collaborative, Centralized Development of Subtitles
-
-[Lee esto en español](README.md) |  [Leer em portugués](README.pt.md)
+<p align="center">
+  <img src="https://i.ibb.co/Zgh4Yjx/Accedes-EN-Brand-2x.png" width="400">
+</p>
+<hr>
+<p align="center">
+  <i><b>Accedes:</b> Active, Collaborative, Centralized Development of Subtitles</i><br><br>
+  <a href="README.md">Lee esto en español</a> |
+  <a href="README.pt.md">Leer em portugués</a>
+</p>
+<hr>
 
 This repo will organize the necessary work to create subtitles for CoDeAr's videos on YouTube.
 
