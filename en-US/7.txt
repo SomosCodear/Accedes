@@ -1,0 +1,516 @@
+Notes with Google Docs
+
+*logo CoDeAr*
+Community of Developers from Argentina presents
+#EncuentrosCoDeAr 
+
+Notes with Google Docs
+
+Welcome to our ninth edition of “Encuentros CoDeAr”. It already is the ninth encounter/meeting we are hosting. More topics keep on getting added and more people are joining in. It is pretty nice/sweet to see how everything is turning out.
+
+On today’s edition, we are going to continue this run through the different Google applications we can use to bolster and have more tools at our disposal in the adventure that is online teaching.
+
+Because of this, we teamed up with Lari, who is also a member of our community, to talk about Google’s alternative for Microsoft’s Word, Google Docs, a word-processor for creating notes and other reading material which later can be shared through Classroom in order for them to be more accessible to students and the rest of Google suite, which are user-friendly, available thanks to the proliferation of mobile phones with Android, easier to access due to how simple is to create an account and them being free of charge, among other things.
+
+So, being already 6:39, let’s begin. Lari, whenever you are ready.
+
+Welcome everybody, the idea is, thanks to “Encuentros CoDeAr”, to train you all in the use of all the tools on the Google suite. We thought to start by coaching you on Google Docs, Slides and Sheets and all the catalogue of applications Google has to offer for online classes. As we are in times of the COVID-19 pandemic, we have to translate traditional teaching into online teaching but there isn’t many courses about it as needed. The idea, then, is to bring you the knowledge we already have about using this tool so you can take advantage of it. Let me share you my screen.
+
+As Joey said, we are going to learn about Google Docs for creating educational reading material and content for virtual classrooms. My name is Lara Diaz.I’m a front-end developer living in Churrasco (Cordoba, Argentina), community manager in React Cordoba, co-founder of Vue Cordoba and coordinator of the communities assembly in CoDeAr.
+I attended the School of Languages (University of Cordoba). I trained to become an English translator and because of the amount of written and printed material, it is not always easy to translate them to online environments. So what we are going to try to do is to create concise reading material so students can use it.
+
+Google Docs is an application available on Google through the G-Suite environment. With this application, we can create documents from scratch or use the provided templates which we’ll see in a minute. It works as a word-processor, with the distinction that is collaborative, meaning we can share the link to our document and others can edit or add comments to it. It is also possible to use it offline and, once our connection is up again, save all the changes.
+
+You simply write: with this application, you have a word-processor available on any device (mobile phone, tablet or desktop computer). You can download the files or simply store them in the cloud using Google Drive.
+
+You can create or edit through any device (mobile phone, tablet or desktop computer)
+
+It’s ideal for teachers as it can be used together with Google Classroom or other applications used in universities and schools such as Moodle.
+
+What are going to learn?
+How to create a document from scratch.
+How to insert images or videos.
+About hyperlinks in our document.
+How to add comments to documents.
+How to download our document in .doc or .pdf format.
+Where should we find our document in Google Drive and how to share it with our students.
+
+Google Drive is a cloud storage system that stores our documents for future use, editing or sharing. Migue, who is also attending this talk, gave a lecture about Google Driven which we will share the link with you ,in case you have missed it, and is also available on our YouTube channel for you to watch it. I’m also sharing with you these three links to royalty free image banks for you to use in your content, without giving credit and which are easy to find.
+
+Are we ok? Do you have any questions, doubts? Are we good? Yes? Perfect.
+
+Well, let’s begin with Google Docs.
+This is the main page you see when you open Google Chrome. If you are already logged in with Gmail, it will appear this menu with all the Google apps. Otherwise, it will ask you to log in.
+
+As I’m already logged in, I’m going to look for the Google Docs application. Once you access it, you are going to see the pre-made templates that you can edit or you can create a new document from scratch. What I’m going to do is use one that is already provided by Google.
+
+As you can see, it is possible to add the name of the course, title of the document, some text and, as you scroll down, you can keep on editing or add your own content. What I’m going to do, in this case, is add “Lecture number one: the numbers” to give you an example. This you can use it with any other lecture you want and you can add some text. 
+
+I already have an image that comes with the template but, as it has nothing to do with the topic of the document, I’m going to search for a new one in “Pixa Bay”, which is one of the three image banks that I already told you about, so you can search there.
+
+I will simply search for numbers, the simplest one. Just not this one because it isn’t royalty free.
+Then we simply download it and go back to our document.
+If we want to use the templates already provided by google, we can continue editing.
+I will delete the provided image. On top of the toolbar, you have the menu “INSERT”, then “IMAGE” and you can either upload it from your device, search for it on the web or, if it is saved in Google Drive, it will let you browse through your drive’s folders. In this case, I have it saved on my computer.
+This is my picture and I click “open” so it can be inserted in the document.
+
+We can make introductions, suppose, in the case of languages and you want to introduce what numbers are in English, German or any language by writing a short text and then write the numbers. If I only enumerate them, it will automatically turn, I don’t remember the name, not star signs but a numbered list and so on.
+
+I’ll scroll down a bit
+
+And, as I don’t want to insert text,I’ll directly write an activity.
+Let’s put “a) Do the following activity”. I want in this case to insert a video.
+Let’s make it simple
+Watch this video and repeat the numbers.
+Most of us are used to search for videos on Google or watch videos on Google…YouTube, I mean, according to the topic at hand. In this case I want look for a song about numbers in English, the ABC, the days of the week, the weather, anything you can translate into whatever you need.
+
+I’m going to look for a song about the numbers.
+
+There are going to be many results.
+
+What I’m going to do?
+
+I’m going to do right click and then copy the link address.
+I go back to my document.
+
+And on the word “video” what I want to do is embed the same link that I just copied.
+
+I’ll highlight the word.
+
+And, as you can see on the toolbar, there is like a chain-link. When you click, it will highlight the word again and let you paste the link that I just copied. If I press “Apply”, you’ll see that the word “video” turns blue and underlined.
+
+And when the students get to this part, they can simply click and the videos will be showed.
+
+This is so we don’t have to insert the whole video or upload it directly to the platform we are using which will make it heavy to download.
+
+By simply inserting the link to the video is enough.
+
+I’m going to have a look to my cheat-notes. Sorry.
+
+Well. What I told you about was by using one of the templates that Google Docs offers.
+
+Now, I want to go and create one from scratch so you can see it this way too.
+
+What other functions we have apart from the usual ones?
+
+We can insert a header and a footer.
+
+We can write our names or insert the logos of our universities, schools or whatever you need. I’m going to use one from the ones I already have.
+
+I have them in my drive.
+
+As I was telling you, we can write our names or, in this case, I want to add the logo of “Somos CoDeAr”.
+
+Once again we go to “INSERT”, “HEADERS AND FOOTERS”. I will only add the header.
+
+You’ll see the space for the header, you choose “INSERT”, “IMAGE”, “UPLOAD FROM COMPUTER” and you can see the image I want to use in the header. You can align it on the centre, to the left or to the right.
+
+Let’s get out go here.
+
+Google Docs also allows us to insert tables, saved drawings and graphs. Concerning graphs, I find it easier not to use Google Docs for inserting them, Instead we make them with another application called “Canva”, if you have heard of it. It is an app that is pretty simple to use, very intuitive to me. It let us create images, presentations, newsletters, and other type of files that we can insert in our document.
+
+One of the templates let us create infographics and graphs that you can use in the document.
+
+How are we doing so far? Do you have any questions or doubts? If I’m going too fast, please let me know.
+
+What I want to do nows is insert a table. I’m going to choose one of 3 by 3.
+
+And suppose we want to do an activity with it.
+
+Let’s put: first name, last name, course or whatever you like.
+
+And we can create an activity in which, let’s suppose, it is about nutrition, and we want to ask students to search for calories of a particular product or that they make a list or different products that we want them to write on the table. But us always giving them the instructions.
+
+I’m going back to the other document.
+Suppose, we have the document already done and ready to upload to the virtual classroom, then we have three options.
+
+As you can see, on the toolbar it says “all changes saved in Drive”
+This would be our drive. In reality, it’s mine. And here the report would appear.
+This report is going to stay here unless I move it to another folder. There you can have it more organised with the different lectures, courses, depending on what you teach.
+
+If I do right click on this document, I will be able to download it as .doc files, or if I open it again, I will let me edit it. This is what I talked at the beginning: that it allows to save the document for future uses or editing.
+
+If I, on the toolbar, go to “FILE”, I have “SHARE” which allows me to send it to the students or to another colleague so they can add more information or activities or edit the file.
+
+This will open a window where you can type the e-mail address of the person you want to send it, or, where it says “GET SHARABLE LINK” if I click, it will say “link copied to the clipboard - link sharing on”. What does this mean? Anyone to whom I shared the link with will be able to edit the file. If they don’t have the link or the necessary permissions  to use the file, they won’t be able to edit it, just read-only.
+
+In the case of the students we won’t let them edit the file. They will download a copy and edit their own but this one, that is the original, will remain unchanged.
+
+Once again in the file menu, if I go to the tab “DOWNLOAD” it will show the different file formats in which it is possible to download the file. The ones that we will use the most are .doc or .pdf.
+
+This is so you can directly download it to your computer and upload it to the virtual classroom.
+
+Is there any questions?
+
+Graciela is asking about advanced  settings for sharing files.
+
+Maybe we can go in more detail on that?
+
+About advanced settings?
+
+On the menu “Share”, as we told a few minutes ago, I already copied the shareable link.
+
+I can open WhatsApp.
+
+And, in this case, I will share it with my mum.
+
+I´ll paste the link and then send it to her, so she can edit the document, which she will be able to do because she has the link
+
+Or I can directly type her e-mail and add a message in particular.
+
+Suppose “I need you to edit activity number 2” and send it to the person.
+
+An e-mail will be to send to the person with the link to the file so they can both access and  edit the document.
+
+Or, if we are in Google Drive, we can do right click and choose “Share” on the same file are talking
+
+And it will open the same window from before to share the file
+
+We can add multiple e-mails. 
+
+Again, this shareable link can be pasted it in the virtual classroom if you want your students to edit the file. And they’ll be able to do so.
+
+If you want that only other teachers are able to edit the file, where it says “People” we add the e-mail addresses and those alone will be able to do so. 
+
+If the “get shareable link” option is off and the e-mail address is not in the list, they will only be able to open the document as “read-only”, which doesn’t allow other person to edit the document.
+
+I don’t know if that answers your question, Gra.
+
+If I share the document with others, how it is displayed…
+
+It is as I was saying before, it’s collaborative meaning that many people can work on the same file.
+
+They can edit, add or remove material. Obviously, all these changes are saved in Google Drive.
+
+Unless the person downloads a copy of the document. Suppose I have a read-only file, it won’t allow me to do anything to it. On the menu “File”, it says “Make a copy” and the document gets created on my personal drive so I can edit it without changing the original file.
+
+Can you repeat again what you said about the royalty free images?
+
+Yes, I’ll share screen with you again. Nonetheless, the presentation that I shared with you at beginning will be available to you so can have it close at hand.
+
+Pixabay was one  of the links that I told you about that’s a database so you can download. If not, there’s more but these three are the most that I use for images.
+
+This site is “Canva”, which is the one that I told you about, where you can register and edit images yourselves. You can create your own files—
+
+Yes, it’s great
+
+It’s is awesome and it has many things which are great for using in the online classroom so it isn’t always black and white.
+
+You have Pixabay…
+
+Yes…Pexels
+
+And Unsplash.
+
+These three are royalty free bank images but you have to be careful because sometimes it says other site. 
+
+If they’re asking you to pay, that’s not royalty free.
+
+And they have watermarks but within these three you can freely search for material to incorporate to the document.
+
+Aha….perfect!
+ If not, you also have another one but I can later share them with you.
+
+ok… thanks!
+
+It’s nothing!
+
+Canva is going to be seen in a coming #EncuentrosCodeAr but if you want to use it or are already using it, it is a great tool to create your own images about numbers, prepositions,  street addresses, whatever you like, and include them on your document.
+
+
+What Gra asked about  earlier was when, you know,  you choose “share”
+
+Yes…
+
+ That opens the window to write the e-mails and all that, well, below it says “advanced settings”
+
+Yes…
+
+In that option, what can you visualise?
+
+What was that I said, on “File”, “Share”, “Advanced settings”
+
+If I add another person, another e-mail, I can choose that they aren't allow to edit the file and inhibit the options for download or printing of the file.
+
+Once again, if we only want an original file and that nobody can edit, it is more than enough to download and uploading it.
+
+You can use “advance settings”, as Gra said, to impede people from editing it. 
+
+And again, rest assured, the links for the image banks and other links will be at your disposal, if you didn’t write them down or couldn’t see them, we will be sharing them.
+
+In connection with YouTube and the videos we will be sharing, in this case, I searched for a song about the numbers, let’s try to see which videos are the ones we want the kids to watch, according to the topic we are looking for and that, particularly, can be shared because some videos have copyrights.
+
+If we click on a video, suppose I clicked on this one, where it says “show more”, there are some that below, in the description, has the copyrights displayed.
+
+I know that, in respect to language material, you try to manage with royalty free material, which would be more adequate,  but always lets research the material we are sharing with the kids and, specially, that it is related to the topic.
+
+You have to this with videos, songs or images, as we talked earlier. 
+
+In this case, it says that it is registered. It has a trademark.
+
+So, in this video in particular, unless I say that the video comes from this channel, this author, I can’t use it and, it wouldn’t be correct to do so. There are other options you can use.
+
+The idea is that you should check the material you are sharing with the kids.
+
+Is there any doubts regarding how to insert links?
+
+There’s only one question that I tried to answer, too
+
+Yes…
+
+One that Graciela made, about voice dictation on Google Docs.
+Yes…but that is more for those who are blind not for us to use it as a tool for dictating.
+
+It is an accessibility tool…
+
+But it can be used with no problems, right Lari?
+
+Yes. Honestly, I haven't used it but I know that it is used for that.
+
+Lara, what happens is that right now we’re taking down notes but when we go and ty, that’s where doubts start to appear.
+
+So we start: “Flor, please, what was that about the links?”
+
+Now, we only take notes.
+
+No, it’s ok.
+
+Remember that the video will be available so you can watch it again.
+
+The explanation will all be there.
+
+If you have any doubt, you can contact me, it’s not a problem. I can help you, with this.
+
+Also, sorry about being a bundle of nerves that made me go faster or slower in the explanation
+
+It’s easier for me to only explain to my mother
+
+But, well, the idea, as I was telling you at the beginning, is to help you in this transition from the traditional classroom and how classes are taught to virtualisation and also to communicate kids content that is more didactic and dynamic so it  isn’t boring to be in front of a screen all day
+
+That it isn’t always black and white because, after three or four hours reading black and white material, you tend to get bored and you no longer pay attention to it. 
+
+It has happened to me as a student and still happens. By giving it more dynamism with videos, songs, images that you create, it is more than enough to capture the attention and to make the class more fun.
+
+And this is what good about all the tools that Google, Canva, the image banks and YouTube offer. It allows us to use all this to make classes more enjoyable.
+
+What does “Add comment”  allow us to do? If the student sends you a file on google Docs, you can add comments about the exercise they did or giving them the incorrect or correct key.
+
+Good.
+
+I’m in the document. Let's suppose that this exercise was done by the student.
+
+If I click on this number two, I right clicked, the options paper and I can add a comment.
+
+As I told you before, this lets you to add information, correct, etc, in this case you could have added something and then I press “comment”
+
+So the student will open the file they sent you and will see all the comments and corrections you made. This can work for exams or an activity in particular.
+
+Or to collaborate with other teachers.
+
+Eh…Lara, can you repeat again how it’s done? Because I got lost.
+
+That’s ok! We look for the word, activity or whatever you did.
+
+Yes…
+
+You highlight it, then right click and a small circle appears on the side with a plus sign appears, which is “add comment”
+
+Or, If you do right click…
+
+And I’m moving it, sorry..
+
+If you do right click, the menu shows  to add a comment, yes.
+
+And that is saved so the student can see it.
+
+The student, the teacher or whoever you are editing the document with.
+
+Perfect. Suppose that, I’m thinking about it now, we make the activities.
+
+Yes?
+
+How can we get the keys of these activities on a separate document? So students can check their answers. It is just to know how to insert that.
+
+Do you follow? 
+
+Yes…
+
+To get the keys on another document
+
+You want to get…
+
+I say where can I put, in the document you created with the dices, let’s suppose is that one, the keys to the activity in another document, so they can check the answers themselves.
+
+With the comment that you make them…
+
+Yes?
+
+Actually, the self-check…
+
+The self-check should be done in a separate document and then send it to them…
+
+suppose, you want them to first do the activity and then check their answers, I would give them 1 or 2 days and then send them the keys.
+
+If you don’t want to do the double of work, by correcting it and adding the comment, it would be more than enough.
+
+That’s all? Perfect, perfect.
+
+Thank you!
+
+What you can do in that case, we talk about it in a previous training with Flor, is to use Google Forms for self-check
+
+Flor, maybe you can talk a little more about it, at a glance?
+
+Yes, yes, I was just going to tell you that if it is bases on a quiz, nothing more than questions and answers, the best option is to do it on Google Forms, which later we have the possibility for self-check, as we saw in the encounter. 
+
+Afterwards, Martha, if you want, you can look for it on the channel. There is the training and, of course, you can add comments to the form and there you can give feedback to students
+
+I highly recommend that you try with Forms.
+
+Now, For creating notes you should do it as Lari showed.
+
+Perfect, thank you.
+
+Martha, is going to depend on what virtual environment you are using.
+
+Exactly, I use Moodle
+
+Well, Moodle has a tool that allows you to create self-evaluations.
+
+Yes, the thing is that we have to prepare the classes as you are showing us and I wanted to see..anyway, afterwards, when the class is edited, they insert this things but I wanted to learn how to do them myself, too. Thank you!
+
+No, that’s ok!
+
+But, if you want to do it yourself, as Flor explained it with Google Forms is more simple.
+
+Perfect, thank you.
+
+By all means.
+
+I don’t know if anybody else has some questions
+
+Martha, I leave you in the chat so you have it, there is a video on my personal channel about Moodle, that it is done for another school but it is complete so you can see how to create multiple choice and all that. I’m sending it to you right now.
+
+Thank you!
+
+If you have any doubt in regards with the other Google tools, on our YouTube channel, Somos CodeAr, there are all the other recorded sessions and the one in which Flor showed Google Forms, the one I told you about in the beginning, in which Mi showed how to use the cloud or Google Drive and maybe it will help you improve and get the hang of it.
+
+Question: If I, for example, create a questionnaire in google forms, it will give the link…can I insert it on the document?
+
+Yes.
+
+So, in this way, Noemi could do what we are talking about?
+
+Yes, the link tool not only does it work for videos, as we saw, but also with other elements.
+
+By the way, another thing that we can show, that also it is practical, is the feature “document outline” to structure the document by detecting its headings, sections, the hierarchy of information, creating sections to our notes, those kind of things that we can go over quickly…using the different level of headings..
+
+The thing is that, if we take into account those who will be using Moodle, the outline won’t be useful as they will have to do it directly on Moodle and by lecture, not in the file itself.
+Ahh ok ok
+
+They only need separate files that they can upload as they go
+
+But I can record another video and then share it so that information doesn’t get mixed up
+
+Ok…
+
+But I have in here the one who is telling me about what is that they use on Moodle. I have seen how they are handling lectures and it is very subdivided. By lectures, with its activities and keys, and everything is highly detailed and simple enough to organise. The files are pretty much isolated.
+
+I don’t know it somebody else has another question or comment…
+
+Later, If you have any doubts or questions, we can give you my e-mail address for you to write me so I can answer you. As you use the tool, doubts will appear, as Liliana said, so you can send me an e-mail, don’t worry about it.
+
+Joey, I think we can wrap it up…
+
+We covered everything that we had to share. I thank you beforehand for joining us today. As you know, what we do in the Community of Developers from Argentina is a completely voluntary activity, which is supported by donations, many made by some of you here today to keep us working, so many thanks to all of you. 
+
+And to those who hadn’t had the opportunity to do so, you can do it through this link which I’m sharing: codear.org/donar
+
+You can donate the amount you want, no matter how small it is, it always helps and allow us to keep collaborating with the educational community on these trainings.
+
+Some new things we will be doing will be trying modifying the format of these sessions, on a new application that will allow us to stream on Facebook Live and YouTube Live. We will be making some trial runs with upcoming sessions and go from there, because we are seeing that some people have been having some trouble connecting with Meet, lately. 
+
+Considering that we secured enough funds, our first investment will be on upgrading our training platform so we will have a space to be more comfortable and interact better. So keep an eye on that because, probably, the CoDeAr sessions on education will be done through that platform as we see that we adapt better to the new tool.
+
+We are also considering to create a volunteer group of people who want to collaborate with our educational portal by writing and sharing information about good practices on online education with different tools. We kickstarted it with our educational portal https://edu.codear.org/ where Migue, Flor and myself wrote some notes, tutorials and keep adding new content but the truth is that we are only three people doing a lot of things, so we are thinking of ways of opening it to the educational community so if there is any topic that you would like to share or any tool that you have learned to use or daily activities that you want to talk about, I think is quite positive to talk. So, everything is welcomed.
+
+We will we announcing through our social media any news about what we are doing, on Facebook, instagram, Twitter, LinkedIn…I don’t remember if we have anything else but we are everywhere. Great, will be uploading  by tomorrow at the very least, the recording of this session. 
+
+So, great. If we don’t have…
+
+We also have a WhatsApp  channel for those who want to join, that one we can share there. What it is good is that you can also share with other teachers and help each other if there are any doubts. We will also announcing  through there about new sessions.
+I share there the one we have about English
+
+Besides, if you want to collaborate or share content on edu., please remember that if you have used technology in the school and want to give a talk about it to share with other teachers or the community at large, you can write to us to plan a meeting, then we decide on a date, timetable and the talk is organised. You don’t have to be an expert on the topic just wanting to share something with the community, to communicate your experience in order to pave the way for others, you are invited to do so.
+
+Well then, thank you very much for your time and we will seeing you on the next one.
+
+Thank you. See you later
+
+Bye, bye. Thank you all.
+
+Thank you, it was great. I enjoyed it and learned a lot. We’ll keep in touch.
+
+Thank you, see you next time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
