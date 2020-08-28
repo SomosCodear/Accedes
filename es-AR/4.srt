@@ -59,29 +59,61 @@ Luego, de la mano de Flor estuvimos viendo todo lo que es
 la confeccion de cuestionarios y evaluaciones a traves de Google Forms
 
 16
-00:01:06,700 --> 00:01:11,999
+00:01:06,900 --> 00:01:11,999
 Y hoy vamos a manejar una capa mas arriba si se quiere,
 
 17
-00:01:12,000 --> 00:01:15,999
+00:01:12,000 --> 00:01:16,099
 como manejarnos con ordenar los materiales,
 
 18
-00:01:16,000 --> 00:01:16,999
+00:01:16,100 --> 00:01:19,999
 los archivos con los que queramos trabajar con nuestros estudiantes
 
 19
-00:01:16,000 --> 00:01:16,999
+00:01:20,000 --> 00:01:21,999
 a traves de la plataforma de Google Drive.
 
 20
-00:01:16,000 --> 00:01:16,999
-En esta ocasión Migue va a estar llevando la explicacion,
+00:01:22,000 --> 00:01:25,499
+En esta ocasión Migue va a estar llevando la capacitación,
 
 21
-00:01:17,000 --> 00:01:17,000
+00:01:25,500 --> 00:01:28,799
 asi que cuando quieras Migue, todo tuyo...
 
 22
-00:00:01,000 --> 00:00:01,000
-text
+00:01:28,800 --> 00:01:29,799
+Migue: Bueno.
+
+23
+00:01:29,800 --> 00:01:32,499
+Voy acomodando los machetes para no olvidarme de nada.
+
+24
+00:01:38,500 --> 00:01:39,999
+Bueno, a ver.
+
+25
+00:01:42,000 --> 00:01:46,499
+Avisenme cuando se vea la pantalla.
+
+26
+00:01:46,500 --> 00:01:48,500
+Un segundito.
+
+27
+00:01:58,000 --> 00:02:01,999
+Silvia: Buenas tardes ¿Me escuchan?
+
+28
+00:02:01,000 --> 00:02:02,999
+Migue: Hola. Si, se escucha.
+
+29
+00:02:02,500 --> 00:02:05,999
+Silvia: Yo la soy profesora Silvia Ruiz.
+
+30
+00:02:06,000 --> 00:02:09,999
+Del IPEN 395.
