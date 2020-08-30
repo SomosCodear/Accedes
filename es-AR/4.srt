@@ -1,6 +1,6 @@
 1
 00:00:17,200 --> 00:00:18,300
-Joey: ¡Buenas tardes!
+¡Buenas tardes!
 
 2
 00:00:18,301 --> 00:00:20,999
@@ -84,7 +84,7 @@ asi que cuando quieras Migue, todo tuyo...
 
 22
 00:01:28,800 --> 00:01:29,799
-Migue: Bueno.
+Bueno.
 
 23
 00:01:29,800 --> 00:01:32,499
@@ -104,16 +104,36 @@ Un segundito.
 
 27
 00:01:58,000 --> 00:02:01,999
-Silvia: Buenas tardes ¿Me escuchan?
+Buenas tardes ¿Me escuchan?
 
 28
-00:02:01,000 --> 00:02:02,999
-Migue: Hola. Si, se escucha.
+00:01:59,999 --> 00:02:02,999
+Hola. Si, se escucha.
 
 29
 00:02:02,500 --> 00:02:05,999
-Silvia: Yo la soy profesora Silvia Ruiz.
+Si. Yo soy la profesora Silvia Ruiz.
 
 30
-00:02:06,000 --> 00:02:09,999
+00:02:06,500 --> 00:02:09,999
 Del IPEN 395.
+
+31
+00:02:10,800 --> 00:02:11,799
+¡Bienvenida!
+
+32
+00:02:15,500 --> 00:02:17,000
+No es la primera vez que me conecto.
+
+33
+00:02:20,000 --> 00:02:21,000
+...
+
+34
+00:02:25,000 --> 00:02:26,999
+Bueno, buenisimo.
+
+35
+00:02:27,000 --> 00:02:29,000
+Diganme si se ve nomás la pantalla.
