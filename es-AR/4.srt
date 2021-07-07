@@ -1,0 +1,139 @@
+1
+00:00:17,200 --> 00:00:18,300
+¡Buenas tardes!
+
+2
+00:00:18,301 --> 00:00:20,999
+Bienvenidos a nuestro Encuentro Codear del dia de hoy
+
+3
+00:00:21,000 --> 00:00:26,000
+sobre como llevar un espacio de clases con apuntes, materiales de estudios,
+
+4
+00:00:26,001 --> 00:00:28,500
+e informacion que queramos compartir con nuestros estudiantes,
+
+5
+00:00:28,501 --> 00:00:32,500
+vamos a estar utilizando la plataforma de Google Drive en esta ocasión.
+
+6
+00:00:33,800 --> 00:00:36,999
+Para los que estuvieron en encuentros anteriores y para los que no,
+
+7
+00:00:37,000 --> 00:00:40,600
+recapitulo un poquito como venimos llevando nuestro programa
+
+8
+00:00:40,601 --> 00:00:42,000
+de herramientas escenciales para e-learning.
+
+9
+00:00:43,000 --> 00:00:47,500
+Empezamos con Google Classroom, como una herramienta
+
+10
+00:00:47,501 --> 00:00:52,000
+que nos permite gestionar, todo lo que es la actividad en un curso
+
+11
+00:00:52,001 --> 00:00:54,000
+y el seguimiento de nuestros estudiantes a traves de
+
+12
+00:00:54,001 --> 00:00:55,999
+una herramienta llama Classroom, 
+
+13
+00:00:56,000 --> 00:00:57,500
+que ofrece Google gratuitamente.
+
+14
+00:00:58,100 --> 00:01:01,999
+Luego, de la mano de Flor estuvimos viendo todo lo que es
+
+15
+00:01:02,000 --> 00:01:06,699
+la confeccion de cuestionarios y evaluaciones a traves de Google Forms
+
+16
+00:01:06,900 --> 00:01:11,999
+Y hoy vamos a manejar una capa mas arriba si se quiere,
+
+17
+00:01:12,000 --> 00:01:16,099
+como manejarnos con ordenar los materiales,
+
+18
+00:01:16,100 --> 00:01:19,999
+los archivos con los que queramos trabajar con nuestros estudiantes
+
+19
+00:01:20,000 --> 00:01:21,999
+a traves de la plataforma de Google Drive.
+
+20
+00:01:22,000 --> 00:01:25,499
+En esta ocasión Migue va a estar llevando la capacitación,
+
+21
+00:01:25,500 --> 00:01:28,799
+asi que cuando quieras Migue, todo tuyo...
+
+22
+00:01:28,800 --> 00:01:29,799
+Bueno.
+
+23
+00:01:29,800 --> 00:01:32,499
+Voy acomodando los machetes para no olvidarme de nada.
+
+24
+00:01:38,500 --> 00:01:39,999
+Bueno, a ver.
+
+25
+00:01:42,000 --> 00:01:46,499
+Avisenme cuando se vea la pantalla.
+
+26
+00:01:46,500 --> 00:01:48,500
+Un segundito.
+
+27
+00:01:58,000 --> 00:02:01,999
+Buenas tardes ¿Me escuchan?
+
+28
+00:01:59,999 --> 00:02:02,999
+Hola. Si, se escucha.
+
+29
+00:02:02,500 --> 00:02:05,999
+Si. Yo soy la profesora Silvia Ruiz.
+
+30
+00:02:06,500 --> 00:02:09,999
+Del IPEN 395.
+
+31
+00:02:10,800 --> 00:02:11,799
+¡Bienvenida!
+
+32
+00:02:15,500 --> 00:02:17,000
+No es la primera vez que me conecto.
+
+33
+00:02:20,000 --> 00:02:21,000
+...
+
+34
+00:02:25,000 --> 00:02:26,999
+Bueno, buenisimo.
+
+35
+00:02:27,000 --> 00:02:29,000
+Diganme si se ve nomás la pantalla.
