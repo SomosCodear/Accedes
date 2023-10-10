@@ -40,3 +40,7 @@ Este repositorio servirá como referencia de atribución para aquellas personas 
 
 - Participar de este repositorio implica la aceptación del [código de conducta](./CODE_OF_CONDUCT.md) de CoDeAr.
 - Contribuir a este repositorio implica que aceptás ceder los textos redactados bajo una [licencia CC0 (Creative Commons Zero)](./LICENSE).
+
+## ¿Necesitas ayuda?
+
+Utilizá el [foro](https://github.com/SomosCodear/Accedes/discussions) o escribinos por e-mail a [hola@codear.org](mailto:hola@codear.org).
